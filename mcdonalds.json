@@ -1,152 +1,162 @@
 [
   {
-    "ProductName": "ASUS ZenBook 14",
-    "GraphicName": "ZenBook_14.jpg",
-    "CostPrice": 999,
-    "MSRP": 1199,
-    "QtyOnHand": 15,
-    "QtyOnBackOrder": 0,
-    "Description": "14-inch FHD Display, Intel Core i7, 16GB RAM, 512GB SSD, NVIDIA MX450",
-    "Brand": "ASUS"
-  },
-  {
-    "ProductName": "Acer Swift 3",
-    "GraphicName": "Swift_3.jpg",
-    "CostPrice": 699,
-    "MSRP": 799,
-    "QtyOnHand": 20,
-    "QtyOnBackOrder": 1,
-    "Description": "14-inch FHD Display, AMD Ryzen 5, 8GB RAM, 256GB SSD, Lightweight",
-    "Brand": "Acer"
-  },
-  {
-    "ProductName": "Microsoft Surface Laptop Go",
-    "GraphicName": "Surface_Laptop_Go.jpg",
-    "CostPrice": 599,
-    "MSRP": 699,
-    "QtyOnHand": 12,
-    "QtyOnBackOrder": 0,
-    "Description": "12.4-inch PixelSense Touchscreen, Intel Core i5, 8GB RAM, 128GB SSD, Windows Hello",
-    "Brand": "Microsoft"
-  },
-  {
-    "ProductName": "Razer Blade Stealth 13",
-    "GraphicName": "Blade_Stealth_13.jpg",
-    "CostPrice": 1399,
-    "MSRP": 1599,
-    "QtyOnHand": 8,
-    "QtyOnBackOrder": 0,
-    "Description": "13.3-inch FHD 120Hz Display, Intel Core i7, 16GB RAM, 512GB SSD, NVIDIA GTX 1650 Ti",
-    "Brand": "Razer"
-  },
-  {
-    "ProductName": "Samsung Galaxy Book Flex",
-    "GraphicName": "Galaxy_Book_Flex.jpg",
-    "CostPrice": 1199,
-    "MSRP": 1399,
+    "ProductName": "HP Spectre x360",
+    "GraphicName": "hp-spectre-x360.jpg",
+    "CostPrice": 1200,
+    "MSRP": 1600,
     "QtyOnHand": 10,
-    "QtyOnBackOrder": 0,
-    "Description": "13.3-inch QLED Touchscreen, Intel Core i5, 8GB RAM, 512GB SSD, S Pen included",
-    "Brand": "Samsung"
-  },
-  {
-    "ProductName": "MSI Prestige 14",
-    "GraphicName": "Prestige_14.jpg",
-    "CostPrice": 1199,
-    "MSRP": 1399,
-    "QtyOnHand": 12,
-    "QtyOnBackOrder": 0,
-    "Description": "14-inch 4K UHD Display, Intel Core i7, 16GB RAM, 1TB SSD, NVIDIA GTX 1650 Ti",
-    "Brand": "MSI"
-  },
-  {
-    "ProductName": "Dell Latitude 7400",
-    "GraphicName": "Latitude_7400.jpg",
-    "CostPrice": 1399,
-    "MSRP": 1599,
-    "QtyOnHand": 8,
-    "QtyOnBackOrder": 0,
-    "Description": "14-inch FHD Display, Intel Core i7, 16GB RAM, 512GB SSD, Windows Hello",
-    "Brand": "Dell"
-  },
-  {
-    "ProductName": "Apple MacBook Pro 16",
-    "GraphicName": "MacBook_Pro_16.jpg",
-    "CostPrice": 2399,
-    "MSRP": 2799,
-    "QtyOnHand": 10,
-    "QtyOnBackOrder": 1,
-    "Description": "16-inch Retina Display, Intel Core i9, 32GB RAM, 1TB SSD, AMD Radeon Pro 5500M",
-    "Brand": "Apple"
-  },
-  {
-    "ProductName": "HP EliteBook x360",
-    "GraphicName": "EliteBook_x360.jpg",
-    "CostPrice": 1799,
-    "MSRP": 2099,
-    "QtyOnHand": 15,
-    "QtyOnBackOrder": 0,
-    "Description": "13.3-inch FHD Touchscreen, Intel Core i7, 16GB RAM, 512GB SSD, Convertible",
+    "QtyOnBackOrder": 2,
+    "Description": "A versatile and powerful laptop from HP.",
     "Brand": "HP"
   },
   {
-    "ProductName": "Lenovo Yoga C940",
-    "GraphicName": "Yoga_C940.jpg",
-    "CostPrice": 1299,
-    "MSRP": 1499,
-    "QtyOnHand": 20,
+    "ProductName": "Dell XPS 15",
+    "GraphicName": "dell-xps-15.jpg",
+    "CostPrice": 1500,
+    "MSRP": 2000,
+    "QtyOnHand": 5,
     "QtyOnBackOrder": 0,
-    "Description": "14-inch UHD Touchscreen, Intel Core i7, 16GB RAM, 1TB SSD, Dolby Atmos Speaker System",
+    "Description": "A high-performance laptop with a stunning display.",
+    "Brand": "Dell"
+  },
+  {
+    "ProductName": "Lenovo ThinkPad X1 Carbon",
+    "GraphicName": "lenovo-thinkpad-x1-carbon.jpg",
+    "CostPrice": 1300,
+    "MSRP": 1800,
+    "QtyOnHand": 8,
+    "QtyOnBackOrder": 3,
+    "Description": "A durable and lightweight laptop designed for professionals.",
     "Brand": "Lenovo"
   },
   {
-    "ProductName": "ASUS VivoBook S15",
-    "GraphicName": "VivoBook_S15.jpg",
-    "CostPrice": 899,
-    "MSRP": 999,
+    "ProductName": "HP Pavilion 15",
+    "GraphicName": "hp-pavilion-15.jpg",
+    "CostPrice": 800,
+    "MSRP": 1100,
+    "QtyOnHand": 15,
+    "QtyOnBackOrder": 0,
+    "Description": "A stylish and affordable laptop for everyday use.",
+    "Brand": "HP"
+  },
+  {
+    "ProductName": "Dell Inspiron 14",
+    "GraphicName": "dell-inspiron-14.jpg",
+    "CostPrice": 700,
+    "MSRP": 900,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 0,
+    "Description": "A compact and reliable laptop for productivity.",
+    "Brand": "Dell"
+  },
+  {
+    "ProductName": "Lenovo Yoga C940",
+    "GraphicName": "lenovo-yoga-c940.jpg",
+    "CostPrice": 1100,
+    "MSRP": 1500,
+    "QtyOnHand": 12,
+    "QtyOnBackOrder": 1,
+    "Description": "A flexible and high-performance laptop with a 2-in-1 design.",
+    "Brand": "Lenovo"
+  },
+  {
+    "ProductName": "HP Omen 15",
+    "GraphicName": "hp-omen-15.jpg",
+    "CostPrice": 1600,
+    "MSRP": 2000,
+    "QtyOnHand": 7,
+    "QtyOnBackOrder": 2,
+    "Description": "A gaming laptop with powerful hardware and stunning visuals.",
+    "Brand": "HP"
+  },
+  {
+    "ProductName": "Dell Latitude 14",
+    "GraphicName": "dell-latitude-14.jpg",
+    "CostPrice": 1200,
+    "MSRP": 1600,
+    "QtyOnHand": 9,
+    "QtyOnBackOrder": 0,
+    "Description": "A business laptop with enhanced security and reliability.",
+    "Brand": "Dell"
+  },
+  {
+    "ProductName": "Lenovo Legion 5",
+    "GraphicName": "lenovo-legion-5.jpg",
+    "CostPrice": 1300,
+    "MSRP": 1700,
+    "QtyOnHand": 6,
+    "QtyOnBackOrder": 3,
+    "Description": "A gaming laptop with a powerful processor and immersive graphics.",
+    "Brand": "Lenovo"
+  },
+  {
+    "ProductName": "HP EliteBook x360",
+    "GraphicName": "hp-elitebook-x360.jpg",
+    "CostPrice": 1500,
+    "MSRP": 1900,
+    "QtyOnHand": 11,
+    "QtyOnBackOrder": 1,
+    "Description": "A premium 2-in-1 laptop with advanced security features.",
+    "Brand": "HP"
+  },
+  {
+    "ProductName": "Dell Precision 15",
+    "GraphicName": "dell-precision-15.jpg",
+    "CostPrice": 1800,
+    "MSRP": 2200,
+    "QtyOnHand": 4,
+    "QtyOnBackOrder": 0,
+    "Description": "A mobile workstation designed for professionals demanding performance.",
+    "Brand": "Dell"
+  },
+  {
+    "ProductName": "Lenovo IdeaPad 5",
+    "GraphicName": "lenovo-ideapad-5.jpg",
+    "CostPrice": 900,
+    "MSRP": 1200,
     "QtyOnHand": 18,
     "QtyOnBackOrder": 0,
-    "Description": "15.6-inch FHD Display, Intel Core i5, 8GB RAM, 512GB SSD, NVIDIA MX350",
-    "Brand": "ASUS"
+    "Description": "A budget-friendly laptop with solid performance and a sleek design.",
+    "Brand": "Lenovo"
   },
   {
-    "ProductName": "Acer Aspire 5",
-    "GraphicName": "Aspire_5.jpg",
-    "CostPrice": 699,
-    "MSRP": 799,
-    "QtyOnHand": 25,
-    "QtyOnBackOrder": 0,
-    "Description": "15.6-inch FHD Display, AMD Ryzen 5, 8GB RAM, 256GB SSD, Backlit Keyboard",
-    "Brand": "Acer"
-  },
-  {
-    "ProductName": "Microsoft Surface Pro 7",
-    "GraphicName": "Surface_Pro_7.jpg",
-    "CostPrice": 899,
-    "MSRP": 999,
-    "QtyOnHand": 20,
+    "ProductName": "HP ProBook 450",
+    "GraphicName": "hp-probook-450.jpg",
+    "CostPrice": 1000,
+    "MSRP": 1400,
+    "QtyOnHand": 13,
     "QtyOnBackOrder": 2,
-    "Description": "12.3-inch PixelSense Touchscreen, Intel Core i5, 8GB RAM, 256GB SSD, Surface Pen compatible",
-    "Brand": "Microsoft"
+    "Description": "A reliable business laptop with essential security and productivity features.",
+    "Brand": "HP"
   },
   {
-    "ProductName": "Razer Blade Pro 17",
-    "GraphicName": "Blade_Pro_17.jpg",
-    "CostPrice": 2499,
-    "MSRP": 2799,
-    "QtyOnHand": 10,
+    "ProductName": "Dell Vostro 14",
+    "GraphicName": "dell-vostro-14.jpg",
+    "CostPrice": 800,
+    "MSRP": 1100,
+    "QtyOnHand": 14,
     "QtyOnBackOrder": 0,
-    "Description": "17.3-inch 4K UHD 120Hz Display, Intel Core i7, 32GB RAM, 1TB SSD, NVIDIA RTX 3080",
-    "Brand": "Razer"
+    "Description": "A value-packed laptop for small business owners.",
+    "Brand": "Dell"
   },
   {
-    "ProductName": "Samsung Galaxy Book Ion",
-    "GraphicName": "Galaxy_Book_Ion.jpg",
-    "CostPrice": 1399,
-    "MSRP": 1599,
-    "QtyOnHand": 15,
+    "ProductName": "Lenovo ThinkBook 14",
+    "GraphicName": "lenovo-thinkbook-14.jpg",
+    "CostPrice": 1100,
+    "MSRP": 1500,
+    "QtyOnHand": 10,
     "QtyOnBackOrder": 1,
-    "Description": "13.3-inch QLED Display, Intel Core i7, 16GB RAM, 512GB SSD, Wireless PowerShare",
-    "Brand": "Samsung"
+    "Description": "A productivity-focused laptop with modern features and reliability.",
+    "Brand": "Lenovo"
+  },
+  {
+    "ProductName": "HP ZBook Studio G7",
+    "GraphicName": "hp-zbook-studio-g7.jpg",
+    "CostPrice": 2000,
+    "MSRP": 2500,
+    "QtyOnHand": 6,
+    "QtyOnBackOrder": 0,
+    "Description": "A powerful mobile workstation designed for creative professionals.",
+    "Brand": "HP"
   }
 ]
