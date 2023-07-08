@@ -1,5 +1,6 @@
 [
   {
+    "Id": "HPSP360",
     "ProductName": "HP Spectre x360",
     "GraphicName": "yzx",
     "CostPrice": 1200,
@@ -10,6 +11,7 @@
     "Brand": "HP"
   },
   {
+    "Id": "DSP15",
     "ProductName": "Dell XPS 15",
     "GraphicName": "xyz",
     "CostPrice": 1500,
@@ -20,6 +22,7 @@
     "Brand": "Dell"
   },
   {
+    "Id": "LNVX1",
     "ProductName": "Lenovo ThinkPad X1 Carbon",
     "GraphicName": "xzy",
     "CostPrice": 1300,
@@ -30,6 +33,7 @@
     "Brand": "Lenovo"
   },
   {
+    "Id": "HPPV15",
     "ProductName": "HP Pavilion 15",
     "GraphicName": "zzz",
     "CostPrice": 800,
@@ -40,6 +44,7 @@
     "Brand": "HP"
   },
   {
+    "Id": "DIP14",
     "ProductName": "Dell Inspiron 14",
     "GraphicName": "yyy",
     "CostPrice": 700,
@@ -50,6 +55,7 @@
     "Brand": "Dell"
   },
   {
+    "Id": "LNVYC9",
     "ProductName": "Lenovo Yoga C940",
     "GraphicName": "xxx",
     "CostPrice": 1100,
@@ -60,6 +66,7 @@
     "Brand": "Lenovo"
   },
   {
+    "Id": "HPOM15",
     "ProductName": "HP Omen 15",
     "GraphicName": "lll",
     "CostPrice": 1600,
@@ -70,6 +77,7 @@
     "Brand": "HP"
   },
   {
+    "Id": "DLAT14",
     "ProductName": "Dell Latitude 14",
     "GraphicName": "ddd",
     "CostPrice": 1200,
@@ -80,6 +88,7 @@
     "Brand": "Dell"
   },
   {
+    "Id": "LNVL5",
     "ProductName": "Lenovo Legion 5",
     "GraphicName": "vvv",
     "CostPrice": 1300,
@@ -90,6 +99,7 @@
     "Brand": "Lenovo"
   },
   {
+    "Id": "HPEL360",
     "ProductName": "HP EliteBook x360",
     "GraphicName": "sss",
     "CostPrice": 1500,
@@ -100,6 +110,7 @@
     "Brand": "HP"
   },
   {
+    "Id": "DPRE15",
     "ProductName": "Dell Precision 15",
     "GraphicName": "qqq",
     "CostPrice": 1800,
@@ -110,6 +121,7 @@
     "Brand": "Dell"
   },
   {
+    "Id": "LNVIP5",
     "ProductName": "Lenovo IdeaPad 5",
     "GraphicName": "nnn",
     "CostPrice": 900,
@@ -120,6 +132,7 @@
     "Brand": "Lenovo"
   },
   {
+    "Id": "HPPB450",
     "ProductName": "HP ProBook 450",
     "GraphicName": "sksk",
     "CostPrice": 1000,
@@ -130,6 +143,7 @@
     "Brand": "HP"
   },
   {
+    "Id": "DVOS14",
     "ProductName": "Dell Vostro 14",
     "GraphicName": "plpl",
     "CostPrice": 800,
@@ -140,6 +154,7 @@
     "Brand": "Dell"
   },
   {
+    "Id": "LNVT14",
     "ProductName": "Lenovo ThinkBook 14",
     "GraphicName": "ttt",
     "CostPrice": 1100,
@@ -150,6 +165,7 @@
     "Brand": "Lenovo"
   },
   {
+    "Id": "HPZBG7",
     "ProductName": "HP ZBook Studio G7",
     "GraphicName": "uuu",
     "CostPrice": 2000,
