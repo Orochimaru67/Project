@@ -1,7 +1,7 @@
 [
   {
     "Id": "HPSP360",
-    "ProductName": "HP Spectre x360",
+    "ProductName": "Spectrex360",
     "GraphicName": "hp.jpg",
     "CostPrice": 1200,
     "MSRP": 1600,
@@ -12,7 +12,7 @@
   },
   {
     "Id": "DSP15",
-    "ProductName": "Dell XPS 15",
+    "ProductName": "XPS15",
     "GraphicName": "dell.jpg",
     "CostPrice": 1500,
     "MSRP": 2000,
@@ -23,7 +23,7 @@
   },
   {
     "Id": "LNVX1",
-    "ProductName": "Lenovo ThinkPad X1 Carbon",
+    "ProductName": "ThinkPadX1Carbon",
     "GraphicName": "lenovo.jpg",
     "CostPrice": 1300,
     "MSRP": 1800,
@@ -34,7 +34,7 @@
   },
   {
     "Id": "HPPV15",
-    "ProductName": "HP Pavilion 15",
+    "ProductName": "Pavilion15",
     "GraphicName": "hp.jpg",
     "CostPrice": 800,
     "MSRP": 1100,
@@ -45,7 +45,7 @@
   },
   {
     "Id": "DIP14",
-    "ProductName": "Dell Inspiron 14",
+    "ProductName": "Inspiron14",
     "GraphicName": "dell.jpg",
     "CostPrice": 700,
     "MSRP": 900,
@@ -56,7 +56,7 @@
   },
   {
     "Id": "LNVYC9",
-    "ProductName": "Lenovo Yoga C940",
+    "ProductName": "YogaC940",
     "GraphicName": "lenovo.jpg",
     "CostPrice": 1100,
     "MSRP": 1500,
@@ -67,7 +67,7 @@
   },
   {
     "Id": "HPOM15",
-    "ProductName": "HP Omen 15",
+    "ProductName": "Omen15",
     "GraphicName": "hp.jpg",
     "CostPrice": 1600,
     "MSRP": 2000,
@@ -78,7 +78,7 @@
   },
   {
     "Id": "DLAT14",
-    "ProductName": "Dell Latitude 14",
+    "ProductName": "Latitude14",
     "GraphicName": "dell.jpg",
     "CostPrice": 1200,
     "MSRP": 1600,
@@ -89,7 +89,7 @@
   },
   {
     "Id": "LNVL5",
-    "ProductName": "Lenovo Legion 5",
+    "ProductName": "Legion5",
     "GraphicName": "lenovo.jpg",
     "CostPrice": 1300,
     "MSRP": 1700,
@@ -100,7 +100,7 @@
   },
   {
     "Id": "HPEL360",
-    "ProductName": "HP EliteBook x360",
+    "ProductName": "EliteBookx360",
     "GraphicName": "hp.jpg",
     "CostPrice": 1500,
     "MSRP": 1900,
@@ -111,7 +111,7 @@
   },
   {
     "Id": "DPRE15",
-    "ProductName": "Dell Precision 15",
+    "ProductName": "Precision15",
     "GraphicName": "dell.jpg",
     "CostPrice": 1800,
     "MSRP": 2200,
@@ -122,7 +122,7 @@
   },
   {
     "Id": "LNVIP5",
-    "ProductName": "Lenovo IdeaPad 5",
+    "ProductName": "IdeaPad5",
     "GraphicName": "lenovo.jpg",
     "CostPrice": 900,
     "MSRP": 1200,
@@ -133,7 +133,7 @@
   },
   {
     "Id": "HPPB450",
-    "ProductName": "HP ProBook 450",
+    "ProductName": "ProBooZ450",
     "GraphicName": "hp.jpg",
     "CostPrice": 1000,
     "MSRP": 1400,
@@ -144,7 +144,7 @@
   },
   {
     "Id": "DVOS14",
-    "ProductName": "Dell Vostro 14",
+    "ProductName": "Vostro14",
     "GraphicName": "dell.jpg",
     "CostPrice": 800,
     "MSRP": 1100,
@@ -155,7 +155,7 @@
   },
   {
     "Id": "LNVT14",
-    "ProductName": "Lenovo ThinkBook 14",
+    "ProductName": "ThinkBook14",
     "GraphicName": "lenovo.jpg",
     "CostPrice": 1100,
     "MSRP": 1500,
@@ -166,7 +166,7 @@
   },
   {
     "Id": "HPZBG7",
-    "ProductName": "HP ZBook Studio G7",
+    "ProductName": "ZBookStudioG7",
     "GraphicName": "hp.jpg",
     "CostPrice": 2000,
     "MSRP": 2500,
